@@ -6,7 +6,8 @@ I might not know everything yet — but I'm a hard worker and always ready to le
 ---
 
 ### 🚀 Projects
-- 🔢 [Scientific Calculator](https://github.com/madox412999/ScientificCalculator) — Built with Python & Tkinter, includes advanced math functions
+- 🔢 [Scientific Calculator](https://github.com/madox412999/ScientificCalculator) — Built with Python & Tkinter, includes advanced math functions  
+- 💱 [Currency Converter](https://github.com/madox412999/CurrencyConverter) — GUI app for converting currencies, includes charts, dark mode, and flags
 
 (*More small projects coming soon! Step by step.*)
 
@@ -30,12 +31,11 @@ I might not know everything yet — but I'm a hard worker and always ready to le
 ---
 
 ### 🎯 Goals for 2025
-- Build my portfolio step by step
-- Get my first freelance gigs
-- Grow my skills every single day
+- Build my portfolio step by step  
+- Get my first freelance gigs  
+- Grow my skills every single day  
 
 ---
 
 ### 📫 Contact
 Reach me via GitHub, or feel free to connect on Telegram: @Madox41299
-

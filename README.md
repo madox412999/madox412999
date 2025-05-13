@@ -1,4 +1,4 @@
-# 👋 Hi, I’m madox412999
+# 👋 Hi, I’m Daniel (a.k.a. madox412999)
 
 I'm a beginner developer who's just getting started with Python, Java, JavaScript, HTML & CSS.  
 I might not know everything yet — but I'm a hard worker and always ready to learn fast and deliver my best.

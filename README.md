@@ -13,7 +13,8 @@ I might not know everything yet — but I'm a hard worker and always ready to le
 ---
 
 ### 🔧 Tech I’m Learning
-- Python (Tkinter, basic logic)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+Python (Tkinter, basic logic)
 - Java (basics)
 - JavaScript (Functions)
 - HTML + CSS 

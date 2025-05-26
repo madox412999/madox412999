@@ -57,7 +57,7 @@ Thanks for checking it out!
 
 - 🔨 Improve at building clean, scalable code
 - 💼 Land my first 1–2 freelance jobs on platforms like Upwork
-- 🚀 Launch more projects on GitHub each month
+- 🚀 Launch more projects on GitHub
 
 ---
 

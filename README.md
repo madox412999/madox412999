@@ -8,8 +8,7 @@ I might not know everything yet — but I'm a hard worker and always ready to le
 ### 🚀 Projects
 - 🔢 [Scientific Calculator](https://github.com/madox412999/ScientificCalculator) — Built with Python & Tkinter, includes advanced math functions  
 - 💱 [Currency Converter](https://github.com/madox412999/CurrencyConverter) — GUI app for converting currencies, includes charts, dark mode, and flags
-- 🎮 [Catch the Falling Objects](https://madox412999.github.io/catch-the-falling-objects/) — Arcade-style browser game built with HTML, CSS, JavaScript
-
+- 🎮 [Catch the Falling Objects](https://madox412999.github.io/catch-the-falling-objects/) — Arcade-style browser game built with HTML, CSS, JavaScript [📁 Repo](https://github.com/madox412999/catch-the-falling-objects)
 
 (*More small projects coming soon! Step by step.*)
 

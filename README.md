@@ -23,8 +23,12 @@ I might not know everything yet — but I'm a hard worker and always ready to le
 
 ---
 
-![image](https://github.com/user-attachments/assets/b336860d-77ff-4bd1-9360-a9174cfb85d8)
+### 🧠 Tech I’m Learning & Advancing In
 
+- 🐍 **Python** – Working with Tkinter, refining app logic and structure  
+- ☕ **Java** – Exploring OOP, expanding beyond the basics  
+- 📜 **JavaScript** – Deepening understanding of DOM, events, and game logic  
+- 🎨 **HTML + CSS** – Improving layout skills, animations, and UI polish
 
 ---
 
